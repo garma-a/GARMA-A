@@ -23,11 +23,11 @@
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <!-- my-badges end -->
 
-<p align="center">  
+<!--<p align="center">  
  <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=550&lines=genius+or+not+,+hard+work+is+the+only+way;30%+FrontEnd+70%+Backend;using+(+Next+,+Express+and+Nest+);&color=ff2929" alt="Typing SVG" />
 </a>
-</p>
+</p>-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/GARMA-A/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/GARMA-A/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
