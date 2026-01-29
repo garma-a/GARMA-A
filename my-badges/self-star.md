@@ -1,0 +1,71 @@
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 64 my own repositories." title="I&apos;ve starred 64 my own repositories." width="128">
+<strong>I&apos;ve starred 64 my own repositories.</strong>
+<br><br>
+
+- <a href="https://github.com/garma-a/Pre_AHC-Status_APP">garma-a/Pre_AHC-Status_APP</a>
+- <a href="https://github.com/garma-a/learn_python_with_me">garma-a/learn_python_with_me</a>
+- <a href="https://github.com/garma-a/GARMA-A">garma-a/GARMA-A</a>
+- <a href="https://github.com/garma-a/ProblemSolvingJava">garma-a/ProblemSolvingJava</a>
+- <a href="https://github.com/garma-a/SummaryPlusPlus">garma-a/SummaryPlusPlus</a>
+- <a href="https://github.com/garma-a/DB-GUI">garma-a/DB-GUI</a>
+- <a href="https://github.com/garma-a/TailWindBasics">garma-a/TailWindBasics</a>
+- <a href="https://github.com/garma-a/Tazpet">garma-a/Tazpet</a>
+- <a href="https://github.com/garma-a/AgeCalculator">garma-a/AgeCalculator</a>
+- <a href="https://github.com/garma-a/Weather-app">garma-a/Weather-app</a>
+- <a href="https://github.com/garma-a/Snake-Game">garma-a/Snake-Game</a>
+- <a href="https://github.com/garma-a/QuizData">garma-a/QuizData</a>
+- <a href="https://github.com/garma-a/Solar-System">garma-a/Solar-System</a>
+- <a href="https://github.com/garma-a/Hotel-page">garma-a/Hotel-page</a>
+- <a href="https://github.com/garma-a/X-O-game">garma-a/X-O-game</a>
+- <a href="https://github.com/garma-a/Dino-Gmae">garma-a/Dino-Gmae</a>
+- <a href="https://github.com/garma-a/CV">garma-a/CV</a>
+- <a href="https://github.com/garma-a/Portofolio">garma-a/Portofolio</a>
+- <a href="https://github.com/garma-a/Dice_game">garma-a/Dice_game</a>
+- <a href="https://github.com/garma-a/Bootstrap">garma-a/Bootstrap</a>
+- <a href="https://github.com/garma-a/C-portal">garma-a/C-portal</a>
+- <a href="https://github.com/garma-a/guess-my-number">garma-a/guess-my-number</a>
+- <a href="https://github.com/garma-a/Flex-web">garma-a/Flex-web</a>
+- <a href="https://github.com/garma-a/party-body">garma-a/party-body</a>
+- <a href="https://github.com/garma-a/Student-portal">garma-a/Student-portal</a>
+- <a href="https://github.com/garma-a/GIRMA-A">garma-a/GIRMA-A</a>
+- <a href="https://github.com/garma-a/SAFE-ME">garma-a/SAFE-ME</a>
+- <a href="https://github.com/garma-a/page-one">garma-a/page-one</a>
+- <a href="https://github.com/garma-a/SuperProblemSolvers">garma-a/SuperProblemSolvers</a>
+- <a href="https://github.com/garma-a/git">garma-a/git</a>
+- <a href="https://github.com/garma-a/JavaScript">garma-a/JavaScript</a>
+- <a href="https://github.com/garma-a/TypeScript">garma-a/TypeScript</a>
+- <a href="https://github.com/garma-a/SimpleVite">garma-a/SimpleVite</a>
+- <a href="https://github.com/garma-a/All-RoadMaps">garma-a/All-RoadMaps</a>
+- <a href="https://github.com/garma-a/All-programming-books">garma-a/All-programming-books</a>
+- <a href="https://github.com/garma-a/Golang">garma-a/Golang</a>
+- <a href="https://github.com/garma-a/I-Love-Linux">garma-a/I-Love-Linux</a>
+- <a href="https://github.com/garma-a/DeepGo">garma-a/DeepGo</a>
+- <a href="https://github.com/garma-a/Best-Websites">garma-a/Best-Websites</a>
+- <a href="https://github.com/garma-a/LeetCode_Golang">garma-a/LeetCode_Golang</a>
+- <a href="https://github.com/garma-a/CollegeDSA_cpp">garma-a/CollegeDSA_cpp</a>
+- <a href="https://github.com/garma-a/pydata-book">garma-a/pydata-book</a>
+- <a href="https://github.com/garma-a/Projects_Go">garma-a/Projects_Go</a>
+- <a href="https://github.com/garma-a/Mastering-TypeScript-Fourth-Edition">garma-a/Mastering-TypeScript-Fourth-Edition</a>
+- <a href="https://github.com/garma-a/PS-Go">garma-a/PS-Go</a>
+- <a href="https://github.com/garma-a/TazpetV2">garma-a/TazpetV2</a>
+- <a href="https://github.com/garma-a/github-stats">garma-a/github-stats</a>
+- <a href="https://github.com/garma-a/IDEconfig">garma-a/IDEconfig</a>
+- <a href="https://github.com/garma-a/LetsGo">garma-a/LetsGo</a>
+- <a href="https://github.com/garma-a/node">garma-a/node</a>
+- <a href="https://github.com/garma-a/rust">garma-a/rust</a>
+- <a href="https://github.com/garma-a/openGL_Game">garma-a/openGL_Game</a>
+- <a href="https://github.com/garma-a/DeepZig">garma-a/DeepZig</a>
+- <a href="https://github.com/garma-a/Docker">garma-a/Docker</a>
+- <a href="https://github.com/garma-a/low_level">garma-a/low_level</a>
+- <a href="https://github.com/garma-a/Dart">garma-a/Dart</a>
+- <a href="https://github.com/garma-a/150NeetCode">garma-a/150NeetCode</a>
+- <a href="https://github.com/garma-a/Graduation_ideas">garma-a/Graduation_ideas</a>
+- <a href="https://github.com/garma-a/SQL">garma-a/SQL</a>
+- <a href="https://github.com/garma-a/MEAN_itida">garma-a/MEAN_itida</a>
+- <a href="https://github.com/garma-a/itida-E-commerce">garma-a/itida-E-commerce</a>
+- <a href="https://github.com/garma-a/svelte">garma-a/svelte</a>
+- <a href="https://github.com/garma-a/QC_project">garma-a/QC_project</a>
+- <a href="https://github.com/garma-a/ECPC_Attendance_System">garma-a/ECPC_Attendance_System</a>
+
+
+Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

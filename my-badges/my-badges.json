@@ -1,0 +1,156 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/garma-a/Dice_game/commit/a5913439f0e2e9ecb3531874bd16319e90644605\"><strong>a</strong>5913439f0e2e9ecb3531874bd16319e90644605</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/garma-a/DeepGo/commit/ab2d6e625c1a164622e4c5ae38398b3beef5c2d3\"><strong>ab</strong>2d6e625c1a164622e4c5ae38398b3beef5c2d3</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/9b4b079e33b1953ba0aa63e2d7fdd8ec39c0cfcd\">9b4b079</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 3 times.",
+    "body": "- <a href=\"https://github.com/garma-a/openGL_Game/commit/4d0fc70cafeebcd7c29b790212fad2d8c5d85021\">4d0fc70<strong>cafe</strong>ebcd7c29b790212fad2d8c5d85021</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/8d1b03edba08420cafec4e3cc4afc16931a28ad1\">8d1b03edba08420<strong>cafe</strong>c4e3cc4afc16931a28ad1</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/b29a7cce4343c31ee9dc069cafebb0ee3c4634ae\">b29a7cce4343c31ee9dc069<strong>cafe</strong>bb0ee3c4634ae</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/MYH_QC_demo/commit/59847e2f2574eb264abe4f385f7d4a4d557d075b\">59847e2</a>: chore: Add task file and apply minor formatting adjustments to HTML, CSS, and React components.",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/structure_quiz/commit/0653b943c9f9c9e18ca2449d92f52ec5bf631f1f\">0653b94</a>\n- <a href=\"https://github.com/garma-a/SimpleVite/commit/e9a91f680afaf9e0103c0e80abf5bdb26efdf67c\">e9a91f6</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/a6695b858d578d575e53ebcc9c43d5bc52f2573a\">a6695b8</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/78c308fff994bb0bfe8a05dd0c515aac9d721cb8\">78c308f</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/0d1ce8437cecd0cd1437ecd5191c7f02b6c8242d\">0d1ce84</a>\n- <a href=\"https://github.com/garma-a/learn_python_with_me/commit/e3daa5b65ffc5f522407292f342e2eb877538cdf\">e3daa5b</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 289 times)\n2. add (used 270 times)\n3. new (used 254 times)\n4. readme.md (used 230 times)\n5. file: (used 228 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/Graduation_ideas/commit/b3d7d6782f04d8448c5757f7afc4ed03fdcfc399\">b3d7d67</a>: fix some staff on the backend docker file\n- <a href=\"https://github.com/garma-a/Graduation_ideas/commit/1e63530bdc02223bdd65f83f0237740c1c54110b\">1e63530</a>: fix allowed origins in my CORS backend",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/daf9b40bfff84324351196a464ff310d8c68d52a\">daf9b40</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/61458e21e853f404752294d175585cb4b38441f5\">61458e2</a>\n- <a href=\"https://github.com/garma-a/DeepGo/commit/d561d796c29945a3b8f02662fddcdf6053b4acd6\">d561d79</a>\n- <a href=\"https://github.com/garma-a/I-Love-Linux/commit/7093fb80d81bda932680900fc130d74e268d7473\">7093fb8</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/bde16ee8a73ea270b96b4273f2d46a58a5f19f56\">bde16ee</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/bde16ee8a73ea270b96b4273f2d46a58a5f19f56\">bde16ee</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/Portofolio/commit/983949d7b8871add605f0b454da2e65c0408a711\">983949d</a>\n- <a href=\"https://github.com/garma-a/Portofolio/commit/c07f684df3acffb2f3701c0cf06a08cb2615a8bc\">c07f684</a>\n- <a href=\"https://github.com/garma-a/Portofolio/commit/5e0d3f2e718d23deb45664a8b180aee173bad52e\">5e0d3f2</a>\n- <a href=\"https://github.com/garma-a/Portofolio/commit/f12527f6e45a7f593253c02fe8939a3f10ab241b\">f12527f</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/garma-a/JavaScript/issues/1\">#1</a>: Please Documnet all comments and topics to READme instead of learn.js file\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/18\">#18</a>: Contact Page Component\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/22\">#22</a>: Additional Pages and Final Integration\n- <a href=\"https://github.com/garma-a/test/issues/1\">#1</a>: this is new issue\n- <a href=\"https://github.com/garma-a/Graduation_ideas/issues/12\">#12</a>: `docker-compose up` crashed !!!",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/SQL/commit/90e5f4e684f38a1fc20b170cbf739d380a5dd419\">90e5f4e</a>\n- <a href=\"https://github.com/garma-a/SQL/commit/5567ee8d1b109133e70953c516dc03eebc041b08\">5567ee8</a>\n- <a href=\"https://github.com/garma-a/SQL/commit/354815f565781fc46730179d8c950b6f3143bcb2\">354815f</a>\n- <a href=\"https://github.com/garma-a/SQL/commit/039c2e5aef3357a2e88e25f8d94ffbc819dcaa76\">039c2e5</a>\n- <a href=\"https://github.com/garma-a/SQL/commit/2b46b105d1194f3a0bc716ceb158047bb9325abd\">2b46b10</a>\n- <a href=\"https://github.com/garma-a/SQL/commit/182394e07b20e08c40e0321d735d1e574d873f48\">182394e</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 64 my own repositories.",
+    "body": "- <a href=\"https://github.com/garma-a/Pre_AHC-Status_APP\">garma-a/Pre_AHC-Status_APP</a>\n- <a href=\"https://github.com/garma-a/learn_python_with_me\">garma-a/learn_python_with_me</a>\n- <a href=\"https://github.com/garma-a/GARMA-A\">garma-a/GARMA-A</a>\n- <a href=\"https://github.com/garma-a/ProblemSolvingJava\">garma-a/ProblemSolvingJava</a>\n- <a href=\"https://github.com/garma-a/SummaryPlusPlus\">garma-a/SummaryPlusPlus</a>\n- <a href=\"https://github.com/garma-a/DB-GUI\">garma-a/DB-GUI</a>\n- <a href=\"https://github.com/garma-a/TailWindBasics\">garma-a/TailWindBasics</a>\n- <a href=\"https://github.com/garma-a/Tazpet\">garma-a/Tazpet</a>\n- <a href=\"https://github.com/garma-a/AgeCalculator\">garma-a/AgeCalculator</a>\n- <a href=\"https://github.com/garma-a/Weather-app\">garma-a/Weather-app</a>\n- <a href=\"https://github.com/garma-a/Snake-Game\">garma-a/Snake-Game</a>\n- <a href=\"https://github.com/garma-a/QuizData\">garma-a/QuizData</a>\n- <a href=\"https://github.com/garma-a/Solar-System\">garma-a/Solar-System</a>\n- <a href=\"https://github.com/garma-a/Hotel-page\">garma-a/Hotel-page</a>\n- <a href=\"https://github.com/garma-a/X-O-game\">garma-a/X-O-game</a>\n- <a href=\"https://github.com/garma-a/Dino-Gmae\">garma-a/Dino-Gmae</a>\n- <a href=\"https://github.com/garma-a/CV\">garma-a/CV</a>\n- <a href=\"https://github.com/garma-a/Portofolio\">garma-a/Portofolio</a>\n- <a href=\"https://github.com/garma-a/Dice_game\">garma-a/Dice_game</a>\n- <a href=\"https://github.com/garma-a/Bootstrap\">garma-a/Bootstrap</a>\n- <a href=\"https://github.com/garma-a/C-portal\">garma-a/C-portal</a>\n- <a href=\"https://github.com/garma-a/guess-my-number\">garma-a/guess-my-number</a>\n- <a href=\"https://github.com/garma-a/Flex-web\">garma-a/Flex-web</a>\n- <a href=\"https://github.com/garma-a/party-body\">garma-a/party-body</a>\n- <a href=\"https://github.com/garma-a/Student-portal\">garma-a/Student-portal</a>\n- <a href=\"https://github.com/garma-a/GIRMA-A\">garma-a/GIRMA-A</a>\n- <a href=\"https://github.com/garma-a/SAFE-ME\">garma-a/SAFE-ME</a>\n- <a href=\"https://github.com/garma-a/page-one\">garma-a/page-one</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers\">garma-a/SuperProblemSolvers</a>\n- <a href=\"https://github.com/garma-a/git\">garma-a/git</a>\n- <a href=\"https://github.com/garma-a/JavaScript\">garma-a/JavaScript</a>\n- <a href=\"https://github.com/garma-a/TypeScript\">garma-a/TypeScript</a>\n- <a href=\"https://github.com/garma-a/SimpleVite\">garma-a/SimpleVite</a>\n- <a href=\"https://github.com/garma-a/All-RoadMaps\">garma-a/All-RoadMaps</a>\n- <a href=\"https://github.com/garma-a/All-programming-books\">garma-a/All-programming-books</a>\n- <a href=\"https://github.com/garma-a/Golang\">garma-a/Golang</a>\n- <a href=\"https://github.com/garma-a/I-Love-Linux\">garma-a/I-Love-Linux</a>\n- <a href=\"https://github.com/garma-a/DeepGo\">garma-a/DeepGo</a>\n- <a href=\"https://github.com/garma-a/Best-Websites\">garma-a/Best-Websites</a>\n- <a href=\"https://github.com/garma-a/LeetCode_Golang\">garma-a/LeetCode_Golang</a>\n- <a href=\"https://github.com/garma-a/CollegeDSA_cpp\">garma-a/CollegeDSA_cpp</a>\n- <a href=\"https://github.com/garma-a/pydata-book\">garma-a/pydata-book</a>\n- <a href=\"https://github.com/garma-a/Projects_Go\">garma-a/Projects_Go</a>\n- <a href=\"https://github.com/garma-a/Mastering-TypeScript-Fourth-Edition\">garma-a/Mastering-TypeScript-Fourth-Edition</a>\n- <a href=\"https://github.com/garma-a/PS-Go\">garma-a/PS-Go</a>\n- <a href=\"https://github.com/garma-a/TazpetV2\">garma-a/TazpetV2</a>\n- <a href=\"https://github.com/garma-a/github-stats\">garma-a/github-stats</a>\n- <a href=\"https://github.com/garma-a/IDEconfig\">garma-a/IDEconfig</a>\n- <a href=\"https://github.com/garma-a/LetsGo\">garma-a/LetsGo</a>\n- <a href=\"https://github.com/garma-a/node\">garma-a/node</a>\n- <a href=\"https://github.com/garma-a/rust\">garma-a/rust</a>\n- <a href=\"https://github.com/garma-a/openGL_Game\">garma-a/openGL_Game</a>\n- <a href=\"https://github.com/garma-a/DeepZig\">garma-a/DeepZig</a>\n- <a href=\"https://github.com/garma-a/Docker\">garma-a/Docker</a>\n- <a href=\"https://github.com/garma-a/low_level\">garma-a/low_level</a>\n- <a href=\"https://github.com/garma-a/Dart\">garma-a/Dart</a>\n- <a href=\"https://github.com/garma-a/150NeetCode\">garma-a/150NeetCode</a>\n- <a href=\"https://github.com/garma-a/Graduation_ideas\">garma-a/Graduation_ideas</a>\n- <a href=\"https://github.com/garma-a/SQL\">garma-a/SQL</a>\n- <a href=\"https://github.com/garma-a/MEAN_itida\">garma-a/MEAN_itida</a>\n- <a href=\"https://github.com/garma-a/itida-E-commerce\">garma-a/itida-E-commerce</a>\n- <a href=\"https://github.com/garma-a/svelte\">garma-a/svelte</a>\n- <a href=\"https://github.com/garma-a/QC_project\">garma-a/QC_project</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System\">garma-a/ECPC_Attendance_System</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/garma-a/Solar-System\">garma-a/Solar-System: ★3</a>\n* <a href=\"https://github.com/garma-a/Snake-Game\">garma-a/Snake-Game: ★3</a>\n* <a href=\"https://github.com/garma-a/AgeCalculator\">garma-a/AgeCalculator: ★3</a>\n* <a href=\"https://github.com/garma-a/Tazpet\">garma-a/Tazpet: ★3</a>\n* <a href=\"https://github.com/garma-a/SuperProblemSolvers\">garma-a/SuperProblemSolvers: ★3</a>\n* <a href=\"https://github.com/garma-a/I-Love-Linux\">garma-a/I-Love-Linux: ★3</a>\n* <a href=\"https://github.com/garma-a/CollegeDSA_cpp\">garma-a/CollegeDSA_cpp: ★3</a>\n* <a href=\"https://github.com/garma-a/Dart\">garma-a/Dart: ★3</a>\n* <a href=\"https://github.com/garma-a/TazpetV2\">garma-a/TazpetV2: ★3</a>\n* <a href=\"https://github.com/garma-a/GARMA-A\">garma-a/GARMA-A: ★2</a>\n* <a href=\"https://github.com/garma-a/DB-GUI\">garma-a/DB-GUI: ★2</a>\n* <a href=\"https://github.com/garma-a/QuizData\">garma-a/QuizData: ★2</a>\n* <a href=\"https://github.com/garma-a/SummaryPlusPlus\">garma-a/SummaryPlusPlus: ★2</a>\n* <a href=\"https://github.com/DevAbdoTolba/Pre_AHC-Status_APP\">DevAbdoTolba/Pre_AHC-Status_APP: ★2</a>\n* <a href=\"https://github.com/garma-a/TailWindBasics\">garma-a/TailWindBasics: ★2</a>\n* <a href=\"https://github.com/garma-a/Pre_AHC-Status_APP\">garma-a/Pre_AHC-Status_APP: ★2</a>\n* <a href=\"https://github.com/garma-a/ProblemSolvingJava\">garma-a/ProblemSolvingJava: ★2</a>\n* <a href=\"https://github.com/garma-a/learn_python_with_me\">garma-a/learn_python_with_me: ★2</a>\n* <a href=\"https://github.com/garma-a/JavaScript\">garma-a/JavaScript: ★2</a>\n* <a href=\"https://github.com/garma-a/git\">garma-a/git: ★2</a>\n* <a href=\"https://github.com/garma-a/TypeScript\">garma-a/TypeScript: ★2</a>\n* <a href=\"https://github.com/garma-a/SimpleVite\">garma-a/SimpleVite: ★2</a>\n* <a href=\"https://github.com/garma-a/Best-Websites\">garma-a/Best-Websites: ★2</a>\n* <a href=\"https://github.com/garma-a/All-programming-books\">garma-a/All-programming-books: ★2</a>\n* <a href=\"https://github.com/garma-a/All-RoadMaps\">garma-a/All-RoadMaps: ★2</a>\n* <a href=\"https://github.com/garma-a/Golang\">garma-a/Golang: ★2</a>\n* <a href=\"https://github.com/garma-a/DeepGo\">garma-a/DeepGo: ★2</a>\n* <a href=\"https://github.com/garma-a/LeetCode_Golang\">garma-a/LeetCode_Golang: ★2</a>\n* <a href=\"https://github.com/garma-a/Mastering-TypeScript-Fourth-Edition\">garma-a/Mastering-TypeScript-Fourth-Edition: ★2</a>\n* <a href=\"https://github.com/garma-a/pydata-book\">garma-a/pydata-book: ★2</a>\n* <a href=\"https://github.com/garma-a/Projects_Go\">garma-a/Projects_Go: ★2</a>\n* <a href=\"https://github.com/garma-a/PS-Go\">garma-a/PS-Go: ★2</a>\n* <a href=\"https://github.com/garma-a/low_level\">garma-a/low_level: ★2</a>\n* <a href=\"https://github.com/garma-a/github-stats\">garma-a/github-stats: ★2</a>\n* <a href=\"https://github.com/garma-a/DeepZig\">garma-a/DeepZig: ★2</a>\n* <a href=\"https://github.com/garma-a/rust\">garma-a/rust: ★2</a>\n* <a href=\"https://github.com/garma-a/Docker\">garma-a/Docker: ★2</a>\n* <a href=\"https://github.com/garma-a/node\">garma-a/node: ★2</a>\n* <a href=\"https://github.com/garma-a/IDEconfig\">garma-a/IDEconfig: ★2</a>\n* <a href=\"https://github.com/garma-a/openGL_Game\">garma-a/openGL_Game: ★2</a>\n* <a href=\"https://github.com/garma-a/LetsGo\">garma-a/LetsGo: ★2</a>\n* <a href=\"https://github.com/garma-a/150NeetCode\">garma-a/150NeetCode: ★2</a>\n* <a href=\"https://github.com/garma-a/docker_explained\">garma-a/docker_explained: ★1</a>\n* <a href=\"https://github.com/garma-a/Graduation_ideas\">garma-a/Graduation_ideas: ★1</a>\n* <a href=\"https://github.com/garma-a/SQL\">garma-a/SQL: ★1</a>\n* <a href=\"https://github.com/garma-a/MEAN_itida\">garma-a/MEAN_itida: ★1</a>\n* <a href=\"https://github.com/garma-a/itida-E-commerce\">garma-a/itida-E-commerce: ★1</a>\n* <a href=\"https://github.com/garma-a/svelte\">garma-a/svelte: ★1</a>\n* <a href=\"https://github.com/garma-a/QC_project\">garma-a/QC_project: ★1</a>\n* <a href=\"https://github.com/garma-a/ECPC_Attendance_System\">garma-a/ECPC_Attendance_System: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/garma-a/Graduation_ideas/issues/42\">#42</a>\n- <a href=\"https://github.com/DevAbdoTolba/Pre_AHC-Status_APP/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/d5847805c4d13f9a942f52fcab223623a336ce62\">d584780</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/a329bc1b5e83a86019d9d06488f3d8f3b307ad66\">a329bc1</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/09edb3e3b12753a4190ad4e32997211ca4a2540a\">09edb3e</a>\n- <a href=\"https://github.com/garma-a/garma-a.github.io/commit/8be7bcbcdb67ddc8bf38b70be04e9cbbc9c3f442\">8be7bcb</a>\n- <a href=\"https://github.com/garma-a/garma-a.github.io/commit/dd1aa3bd3ce57561755c93664650234bb78cb9f0\">dd1aa3b</a>\n- <a href=\"https://github.com/garma-a/garma-a.github.io/commit/b058976becb74698ed083cca7739b18062305cff\">b058976</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rekozzz/Smart-Energy-Monitoring-Abuse-Detection-System/commit/5cbf2ff38d62957d0815bfdf0c177367ef8a20a7\">5cbf2ff</a>\n- <a href=\"https://github.com/rekozzz/Smart-Energy-Monitoring-Abuse-Detection-System/commit/666cab68f642508c7d855c925779622fc409118f\">666cab6</a>\n- <a href=\"https://github.com/rekozzz/Smart-Energy-Monitoring-Abuse-Detection-System/commit/e2a788a7d5fe0326b20978250ede6da846436ecf\">e2a788a</a>\n- <a href=\"https://github.com/rekozzz/Smart-Energy-Monitoring-Abuse-Detection-System/commit/a5101d8f8069bb0b6a131a01c805c194991fdac3\">a5101d8</a>\n- <a href=\"https://github.com/garma-a/node/commit/0bb37a328e96f295530fb54efbdd067987394c8f\">0bb37a3</a>\n- <a href=\"https://github.com/garma-a/DeepZig/commit/1faa22fc8d828bb98fa162a9e1c4ced9ebf5939b\">1faa22f</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/f1d354c1b0578ae1746aa2da8323396d53934d12\">f1d354c</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/8c03853043cfae6a9b28051d09da759a653aa51c\">8c03853</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/c89df0cba7ccaad7031081a047b71fb4598735b8\">c89df0c</a>\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/3ffe53c449a3fdc76aeb3abc79ce0b6964a6671d\">3ffe53c</a>\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/4202b4e36ee26105e79f5b2391615f465fb23c87\">4202b4e</a>\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/6f1a1449aa5bfba04c5cd640a3276cec8c0ce4da\">6f1a144</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/Weather-app/commit/81ef5c47b4fabc74871a8e240d3d1522b84d07a0\">81ef5c4</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
