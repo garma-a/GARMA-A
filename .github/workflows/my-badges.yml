@@ -13,7 +13,7 @@ jobs:
         uses: antonmedv/my-badges@master
         with:
           user_id: GARMA-A
-          filter: "stars, followers, experience"
+          omit: "stars, followers, experience"
       - name: Commit Badge Images
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
