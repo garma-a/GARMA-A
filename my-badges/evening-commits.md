@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/garma-a/IDEconfig/commit/2eefa3574d1873707ba4138159d41c3d0b405412">2eefa35</a>
-- <a href="https://github.com/garma-a/QC_project/commit/f1d354c1b0578ae1746aa2da8323396d53934d12">f1d354c</a>
-- <a href="https://github.com/garma-a/QC_project/commit/8c03853043cfae6a9b28051d09da759a653aa51c">8c03853</a>
-- <a href="https://github.com/garma-a/QC_project/commit/c89df0cba7ccaad7031081a047b71fb4598735b8">c89df0c</a>
-- <a href="https://github.com/garma-a/150NeetCode/commit/3ffe53c449a3fdc76aeb3abc79ce0b6964a6671d">3ffe53c</a>
-- <a href="https://github.com/garma-a/150NeetCode/commit/4202b4e36ee26105e79f5b2391615f465fb23c87">4202b4e</a>
+- <a href="https://github.com/garma-a/QC_project/commit/5e2bf1012b12310d13be4cece929cd6f93aa2c5b">5e2bf10</a>
+- <a href="https://github.com/garma-a/QC_project/commit/9e22fa212594c0eb69faa39e798a957d06bf19a2">9e22fa2</a>
+- <a href="https://github.com/garma-a/QC_project/commit/022f2a57769ed826f386e23a4cbe70c78de6ecb1">022f2a5</a>
+- <a href="https://github.com/garma-a/QC_project/commit/df062dd952be7aebcba5992d103ac7d69c37c15a">df062dd</a>
+- <a href="https://github.com/garma-a/QC_project/commit/2a1bba1d827648007eb52c6da46b5287d9b3dcc4">2a1bba1</a>
+- <a href="https://github.com/garma-a/IDEconfig/commit/e8783a613fccc992523d3e7b225d91d2cc70b20e">e8783a6</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
