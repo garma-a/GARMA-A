@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/garma-a/150NeetCode/commit/9608ccc7625ee091af4ac1556443a1cac7991ded">9608ccc</a>
+- <a href="https://github.com/garma-a/QC_project/commit/566b9d185932afcfd52c7f3490abd55a0ab3ee17">566b9d1</a>
+- <a href="https://github.com/garma-a/QC_project/commit/7e83b425a2c13db3c683e812b8f829e8000125bc">7e83b42</a>
+- <a href="https://github.com/garma-a/QC_project/commit/3b96d3b290ea96b495dc44b67410ad9a63fc5f35">3b96d3b</a>
+- <a href="https://github.com/garma-a/QC_project/commit/e86cc4c950e921cf321931ca9721bd71691ce4d5">e86cc4c</a>
 - <a href="https://github.com/garma-a/ECPC_Attendance_System/commit/649bb673660c7f9555794a5338e3807127fd4bf4">649bb67</a>
-- <a href="https://github.com/garma-a/IDEconfig/commit/9755a38018dcfee5af053754d47c545e8479242c">9755a38</a>
-- <a href="https://github.com/garma-a/IDEconfig/commit/5d324fa94bfa24e3d2de3d8116d5c47421c4c284">5d324fa</a>
-- <a href="https://github.com/garma-a/IDEconfig/commit/fef3d644f4043338917fef0ddb61932ce31e8bf1">fef3d64</a>
-- <a href="https://github.com/garma-a/openGL_Game/commit/7757d647bbb94103af5788b479005162baa5006a">7757d64</a>
-- <a href="https://github.com/garma-a/IDEconfig/commit/751569ad185f6d48ce5495ae017155d6b46cea20">751569a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

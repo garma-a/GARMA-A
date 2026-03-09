@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/garma-a/Graduation_ideas/commit/b3d7d6782f04d8448c5757f7afc4ed03fdcfc399">b3d7d67</a>: fix some staff on the backend docker file
-- <a href="https://github.com/garma-a/Graduation_ideas/commit/1e63530bdc02223bdd65f83f0237740c1c54110b">1e63530</a>: fix allowed origins in my CORS backend
+- <a href="https://github.com/garma-a/ECPC_Attendance_System/commit/c3f968662c74635f7cb58d785f8ea34e08382213">c3f9686</a>: fix the dits error and add commments to announcments
+- <a href="https://github.com/garma-a/ECPC_Attendance_System/commit/2b61dd6e987d3f51bb5c408d3915cee9a752f017">2b61dd6</a>: fix the mobile view and styles
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

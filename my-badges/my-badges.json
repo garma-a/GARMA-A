@@ -45,14 +45,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 295 times)\n2. add (used 287 times)\n3. new (used 255 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 296 times)\n2. add (used 295 times)\n3. new (used 255 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/Graduation_ideas/commit/b3d7d6782f04d8448c5757f7afc4ed03fdcfc399\">b3d7d67</a>: fix some staff on the backend docker file\n- <a href=\"https://github.com/garma-a/Graduation_ideas/commit/1e63530bdc02223bdd65f83f0237740c1c54110b\">1e63530</a>: fix allowed origins in my CORS backend",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/c3f968662c74635f7cb58d785f8ea34e08382213\">c3f9686</a>: fix the dits error and add commments to announcments\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/2b61dd6e987d3f51bb5c408d3915cee9a752f017\">2b61dd6</a>: fix the mobile view and styles",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/garma-a/JavaScript/issues/1\">#1</a>: Please Documnet all comments and topics to READme instead of learn.js file\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/18\">#18</a>: Contact Page Component\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/22\">#22</a>: Additional Pages and Final Integration\n- <a href=\"https://github.com/garma-a/test/issues/1\">#1</a>: this is new issue\n- <a href=\"https://github.com/garma-a/Graduation_ideas/issues/12\">#12</a>: `docker-compose up` crashed !!!",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/garma-a/JavaScript/issues/1\">#1</a>: Please Documnet all comments and topics to READme instead of learn.js file\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/18\">#18</a>: Contact Page Component\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/22\">#22</a>: Additional Pages and Final Integration\n- <a href=\"https://github.com/garma-a/test/issues/1\">#1</a>: this is new issue\n- <a href=\"https://github.com/garma-a/QC_project/issues/33\">#33</a>: Refactor the frontend code\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -129,21 +129,21 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/1823c16b7489b8cc3b73aa7cc11099d6f810dd04\">1823c16</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/d0d551bc49e66cea61c55b8de14b3b29178322f0\">d0d551b</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/00fa3f2dbbd8e54261271cbfb9138af002c96bc7\">00fa3f2</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/499083d0861cfd87e85d72548f18c8b6231a3edf\">499083d</a>\n- <a href=\"https://github.com/garma-a/openGL_Game/commit/2106720d940617ec92f0cc17b12f5906eaeab206\">2106720</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/ed217fcef6a8d035c215bcd68a99542eabf5d842\">ed217fc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/02e423a0a181028d322abb0d9d0a6ffa6c68041e\">02e423a</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/789ec0fd24f0d85900303f3162bc172784762b37\">789ec0f</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/0996172ada6bc23d383d26f7d62b4ec2b3c54d0b\">0996172</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/633c757c8f835de703b38b460150276be4a7ceae\">633c757</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/bb47c8771891bfba7036f032e7d27107e38126e2\">bb47c87</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/28cd9813e7b87d3080650d2cd8f867f19bc168f6\">28cd981</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/649bb673660c7f9555794a5338e3807127fd4bf4\">649bb67</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/9755a38018dcfee5af053754d47c545e8479242c\">9755a38</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/5d324fa94bfa24e3d2de3d8116d5c47421c4c284\">5d324fa</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/fef3d644f4043338917fef0ddb61932ce31e8bf1\">fef3d64</a>\n- <a href=\"https://github.com/garma-a/openGL_Game/commit/7757d647bbb94103af5788b479005162baa5006a\">7757d64</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/751569ad185f6d48ce5495ae017155d6b46cea20\">751569a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/9608ccc7625ee091af4ac1556443a1cac7991ded\">9608ccc</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/566b9d185932afcfd52c7f3490abd55a0ab3ee17\">566b9d1</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/7e83b425a2c13db3c683e812b8f829e8000125bc\">7e83b42</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/3b96d3b290ea96b495dc44b67410ad9a63fc5f35\">3b96d3b</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/e86cc4c950e921cf321931ca9721bd71691ce4d5\">e86cc4c</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/649bb673660c7f9555794a5338e3807127fd4bf4\">649bb67</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/76c0b94dc943d7b990f80513692ca90df3ccd5fe\">76c0b94</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/72edd1da9812e34116cf498a9864f30a67c9e98a\">72edd1d</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/5e2bf1012b12310d13be4cece929cd6f93aa2c5b\">5e2bf10</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/9e22fa212594c0eb69faa39e798a957d06bf19a2\">9e22fa2</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/022f2a57769ed826f386e23a4cbe70c78de6ecb1\">022f2a5</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/df062dd952be7aebcba5992d103ac7d69c37c15a\">df062dd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/c3f968662c74635f7cb58d785f8ea34e08382213\">c3f9686</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/2b61dd6e987d3f51bb5c408d3915cee9a752f017\">2b61dd6</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/732a009dc47a32f03a49e47516be56a809b6d4d3\">732a009</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/73fb7a28db6b82f6651632a51c7b725984f87759\">73fb7a2</a>\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/0873ebf50831ce76b51dfc37cf049fb2a3eeb818\">0873ebf</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/76c0b94dc943d7b990f80513692ca90df3ccd5fe\">76c0b94</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
