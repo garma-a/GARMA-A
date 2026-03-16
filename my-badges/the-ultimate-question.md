@@ -2,6 +2,7 @@
 <strong>I found the answer to the ultimate question of life, the universe, and everything!</strong>
 <br><br>
 
+- <a href="https://github.com/garma-a/QC_project/issues/42">#42</a>
 - <a href="https://github.com/DevAbdoTolba/Pre_AHC-Status_APP/issues/42">#42</a>
 - <a href="https://github.com/garma-a/Graduation_ideas/issues/42">#42</a>
 

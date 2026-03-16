@@ -44,8 +44,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 296 times)\n2. add (used 295 times)\n3. new (used 255 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 301 times)\n2. update (used 296 times)\n3. new (used 255 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/garma-a.github.io/commit/ffc10d7cf04f5195c367c086991db9237a7b0c24\">ffc10d7</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/daf9b40bfff84324351196a464ff310d8c68d52a\">daf9b40</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/61458e21e853f404752294d175585cb4b38441f5\">61458e2</a>\n- <a href=\"https://github.com/garma-a/DeepGo/commit/d561d796c29945a3b8f02662fddcdf6053b4acd6\">d561d79</a>\n- <a href=\"https://github.com/garma-a/I-Love-Linux/commit/7093fb80d81bda932680900fc130d74e268d7473\">7093fb8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/1dd71ed83d650afe07e1e2151f6e14745751bb9d\">1dd71ed</a>\n- <a href=\"https://github.com/garma-a/garma-a.github.io/commit/ffc10d7cf04f5195c367c086991db9237a7b0c24\">ffc10d7</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/daf9b40bfff84324351196a464ff310d8c68d52a\">daf9b40</a>\n- <a href=\"https://github.com/garma-a/GARMA-A/commit/61458e21e853f404752294d175585cb4b38441f5\">61458e2</a>\n- <a href=\"https://github.com/garma-a/DeepGo/commit/d561d796c29945a3b8f02662fddcdf6053b4acd6\">d561d79</a>\n- <a href=\"https://github.com/garma-a/I-Love-Linux/commit/7093fb80d81bda932680900fc130d74e268d7473\">7093fb8</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
@@ -122,21 +122,21 @@
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/DevAbdoTolba/Pre_AHC-Status_APP/issues/42\">#42</a>\n- <a href=\"https://github.com/garma-a/Graduation_ideas/issues/42\">#42</a>",
+    "body": "- <a href=\"https://github.com/garma-a/QC_project/issues/42\">#42</a>\n- <a href=\"https://github.com/DevAbdoTolba/Pre_AHC-Status_APP/issues/42\">#42</a>\n- <a href=\"https://github.com/garma-a/Graduation_ideas/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/02e423a0a181028d322abb0d9d0a6ffa6c68041e\">02e423a</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/789ec0fd24f0d85900303f3162bc172784762b37\">789ec0f</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/0996172ada6bc23d383d26f7d62b4ec2b3c54d0b\">0996172</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/633c757c8f835de703b38b460150276be4a7ceae\">633c757</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/bb47c8771891bfba7036f032e7d27107e38126e2\">bb47c87</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/28cd9813e7b87d3080650d2cd8f867f19bc168f6\">28cd981</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/7badd0ef7e7b2e0d3fb7305afb6d41ed68bfa030\">7badd0e</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/f5f7f9584faef814bf5ef56438778daae5ba4c6d\">f5f7f95</a>\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/02e423a0a181028d322abb0d9d0a6ffa6c68041e\">02e423a</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/789ec0fd24f0d85900303f3162bc172784762b37\">789ec0f</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/0996172ada6bc23d383d26f7d62b4ec2b3c54d0b\">0996172</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/633c757c8f835de703b38b460150276be4a7ceae\">633c757</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/9608ccc7625ee091af4ac1556443a1cac7991ded\">9608ccc</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/566b9d185932afcfd52c7f3490abd55a0ab3ee17\">566b9d1</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/7e83b425a2c13db3c683e812b8f829e8000125bc\">7e83b42</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/3b96d3b290ea96b495dc44b67410ad9a63fc5f35\">3b96d3b</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/e86cc4c950e921cf321931ca9721bd71691ce4d5\">e86cc4c</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/649bb673660c7f9555794a5338e3807127fd4bf4\">649bb67</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/grit/commit/1133c9f19d3d191631371d17629f5b2ea03db229\">1133c9f</a>\n- <a href=\"https://github.com/garma-a/grit/commit/e79517bd7cb35868e80b2c2c28e9d65be59ace17\">e79517b</a>\n- <a href=\"https://github.com/garma-a/grit/commit/c5d8ef8bb340c45f277d95cfdb73218016bf7a95\">c5d8ef8</a>\n- <a href=\"https://github.com/garma-a/grit/commit/e5031bca3d5e736524de502cfd14545f10b34dc9\">e5031bc</a>\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/9608ccc7625ee091af4ac1556443a1cac7991ded\">9608ccc</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/566b9d185932afcfd52c7f3490abd55a0ab3ee17\">566b9d1</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -152,5 +152,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/Weather-app/commit/81ef5c47b4fabc74871a8e240d3d1522b84d07a0\">81ef5c4</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/6a540de5c036c76610db19aaef8f03661e697731\">6a540de</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]

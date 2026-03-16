@@ -1,11 +1,11 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="128">
-<strong>My favorite word is &quot;update&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="128">
+<strong>My favorite word is &quot;add&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. update (used 296 times)
-2. add (used 295 times)
+1. add (used 301 times)
+2. update (used 296 times)
 3. new (used 255 times)
 4. readme.md (used 235 times)
 5. file: (used 228 times)

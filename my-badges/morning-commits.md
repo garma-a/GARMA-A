@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/garma-a/grit/commit/1133c9f19d3d191631371d17629f5b2ea03db229">1133c9f</a>
+- <a href="https://github.com/garma-a/grit/commit/e79517bd7cb35868e80b2c2c28e9d65be59ace17">e79517b</a>
+- <a href="https://github.com/garma-a/grit/commit/c5d8ef8bb340c45f277d95cfdb73218016bf7a95">c5d8ef8</a>
+- <a href="https://github.com/garma-a/grit/commit/e5031bca3d5e736524de502cfd14545f10b34dc9">e5031bc</a>
 - <a href="https://github.com/garma-a/150NeetCode/commit/9608ccc7625ee091af4ac1556443a1cac7991ded">9608ccc</a>
 - <a href="https://github.com/garma-a/QC_project/commit/566b9d185932afcfd52c7f3490abd55a0ab3ee17">566b9d1</a>
-- <a href="https://github.com/garma-a/QC_project/commit/7e83b425a2c13db3c683e812b8f829e8000125bc">7e83b42</a>
-- <a href="https://github.com/garma-a/QC_project/commit/3b96d3b290ea96b495dc44b67410ad9a63fc5f35">3b96d3b</a>
-- <a href="https://github.com/garma-a/QC_project/commit/e86cc4c950e921cf321931ca9721bd71691ce4d5">e86cc4c</a>
-- <a href="https://github.com/garma-a/ECPC_Attendance_System/commit/649bb673660c7f9555794a5338e3807127fd4bf4">649bb67</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
