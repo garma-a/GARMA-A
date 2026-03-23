@@ -38,14 +38,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/structure_quiz/commit/0653b943c9f9c9e18ca2449d92f52ec5bf631f1f\">0653b94</a>\n- <a href=\"https://github.com/garma-a/SimpleVite/commit/e9a91f680afaf9e0103c0e80abf5bdb26efdf67c\">e9a91f6</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/a6695b858d578d575e53ebcc9c43d5bc52f2573a\">a6695b8</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/78c308fff994bb0bfe8a05dd0c515aac9d721cb8\">78c308f</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/0d1ce8437cecd0cd1437ecd5191c7f02b6c8242d\">0d1ce84</a>\n- <a href=\"https://github.com/garma-a/learn_python_with_me/commit/e3daa5b65ffc5f522407292f342e2eb877538cdf\">e3daa5b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/structure_quiz/commit/0653b943c9f9c9e18ca2449d92f52ec5bf631f1f\">0653b94</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/78943a91ef81622c08100a35b73f075561f838de\">78943a9</a>\n- <a href=\"https://github.com/garma-a/SimpleVite/commit/e9a91f680afaf9e0103c0e80abf5bdb26efdf67c\">e9a91f6</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/a6695b858d578d575e53ebcc9c43d5bc52f2573a\">a6695b8</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/78c308fff994bb0bfe8a05dd0c515aac9d721cb8\">78c308f</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/0d1ce8437cecd0cd1437ecd5191c7f02b6c8242d\">0d1ce84</a>\n- <a href=\"https://github.com/garma-a/learn_python_with_me/commit/e3daa5b65ffc5f522407292f342e2eb877538cdf\">e3daa5b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 301 times)\n2. update (used 296 times)\n3. new (used 255 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 305 times)\n2. update (used 298 times)\n3. new (used 256 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/bde16ee8a73ea270b96b4273f2d46a58a5f19f56\">bde16ee</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/91c760454ed35c00f85910b2d7ec5c8d00dc6cc9\">91c7604</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -159,5 +159,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/6a540de5c036c76610db19aaef8f03661e697731\">6a540de</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/78943a91ef81622c08100a35b73f075561f838de\">78943a9</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/fe3d54fc8dffbc76d229dab6a32b8ca2a37505d0\">fe3d54f</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
