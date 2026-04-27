@@ -54,6 +54,7 @@ Repos:
 * <a href="https://github.com/garma-a/svelte">garma-a/svelte: ★1</a>
 * <a href="https://github.com/garma-a/QC_project">garma-a/QC_project: ★1</a>
 * <a href="https://github.com/garma-a/ECPC_Attendance_System">garma-a/ECPC_Attendance_System: ★1</a>
+* <a href="https://github.com/garma-a/redisgo">garma-a/redisgo: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

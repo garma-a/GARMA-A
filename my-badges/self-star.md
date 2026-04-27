@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 64 my own repositories." title="I&apos;ve starred 64 my own repositories." width="128">
-<strong>I&apos;ve starred 64 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 65 my own repositories." title="I&apos;ve starred 65 my own repositories." width="128">
+<strong>I&apos;ve starred 65 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/garma-a/Pre_AHC-Status_APP">garma-a/Pre_AHC-Status_APP</a>
@@ -66,6 +66,7 @@
 - <a href="https://github.com/garma-a/svelte">garma-a/svelte</a>
 - <a href="https://github.com/garma-a/QC_project">garma-a/QC_project</a>
 - <a href="https://github.com/garma-a/ECPC_Attendance_System">garma-a/ECPC_Attendance_System</a>
+- <a href="https://github.com/garma-a/redisgo">garma-a/redisgo</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

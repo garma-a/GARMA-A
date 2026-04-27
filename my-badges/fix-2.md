@@ -4,8 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/garma-a/ECPC_Attendance_System/commit/c3f968662c74635f7cb58d785f8ea34e08382213">c3f9686</a>: fix the dits error and add commments to announcments
-- <a href="https://github.com/garma-a/ECPC_Attendance_System/commit/2b61dd6e987d3f51bb5c408d3915cee9a752f017">2b61dd6</a>: fix the mobile view and styles
+- <a href="https://github.com/garma-a/garma-a.github.io/commit/e719e5b4f35c1f4fc6983f68944a6db8cf19188e">e719e5b</a>: fix: remove tracked build artifacts and fix build script
+
+- Add build/ to .gitignore (CI rebuilds fresh each deploy)
+- Remove prepack from build script (library packaging not needed for site)
+- Remove 52 tracked build files from git history
+- <a href="https://github.com/garma-a/garma-a.github.io/commit/a5a0f1c9ce67610c481713ccf057d9c7e0aff2be">a5a0f1c</a>: fix: custom domain CNAME location and svelte base path
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
