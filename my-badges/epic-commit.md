@@ -5,6 +5,7 @@
 Commits:
 
 - <a href="https://github.com/garma-a/structure_quiz/commit/0653b943c9f9c9e18ca2449d92f52ec5bf631f1f">0653b94</a>
+- <a href="https://github.com/garma-a/ECPC_Attendance_System/commit/c98c21b1f2bc5d2119aa53b07a335bbd47b23600">c98c21b</a>
 - <a href="https://github.com/garma-a/QC_project/commit/78943a91ef81622c08100a35b73f075561f838de">78943a9</a>
 - <a href="https://github.com/garma-a/SimpleVite/commit/e9a91f680afaf9e0103c0e80abf5bdb26efdf67c">e9a91f6</a>
 - <a href="https://github.com/garma-a/SuperProblemSolvers/commit/a6695b858d578d575e53ebcc9c43d5bc52f2573a">a6695b8</a>

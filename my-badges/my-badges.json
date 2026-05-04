@@ -38,14 +38,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/structure_quiz/commit/0653b943c9f9c9e18ca2449d92f52ec5bf631f1f\">0653b94</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/78943a91ef81622c08100a35b73f075561f838de\">78943a9</a>\n- <a href=\"https://github.com/garma-a/SimpleVite/commit/e9a91f680afaf9e0103c0e80abf5bdb26efdf67c\">e9a91f6</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/a6695b858d578d575e53ebcc9c43d5bc52f2573a\">a6695b8</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/78c308fff994bb0bfe8a05dd0c515aac9d721cb8\">78c308f</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/0d1ce8437cecd0cd1437ecd5191c7f02b6c8242d\">0d1ce84</a>\n- <a href=\"https://github.com/garma-a/learn_python_with_me/commit/e3daa5b65ffc5f522407292f342e2eb877538cdf\">e3daa5b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/structure_quiz/commit/0653b943c9f9c9e18ca2449d92f52ec5bf631f1f\">0653b94</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/c98c21b1f2bc5d2119aa53b07a335bbd47b23600\">c98c21b</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/78943a91ef81622c08100a35b73f075561f838de\">78943a9</a>\n- <a href=\"https://github.com/garma-a/SimpleVite/commit/e9a91f680afaf9e0103c0e80abf5bdb26efdf67c\">e9a91f6</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/a6695b858d578d575e53ebcc9c43d5bc52f2573a\">a6695b8</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/78c308fff994bb0bfe8a05dd0c515aac9d721cb8\">78c308f</a>\n- <a href=\"https://github.com/garma-a/SuperProblemSolvers/commit/0d1ce8437cecd0cd1437ecd5191c7f02b6c8242d\">0d1ce84</a>\n- <a href=\"https://github.com/garma-a/learn_python_with_me/commit/e3daa5b65ffc5f522407292f342e2eb877538cdf\">e3daa5b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 315 times)\n2. update (used 299 times)\n3. new (used 256 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 321 times)\n2. update (used 301 times)\n3. new (used 256 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/91b90c4364834a8becdd4a273881e57e900ebd09\">91b90c4</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/68d15ef66add4ef76a3cb2a843eeaf18658c623b\">68d15ef</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/4ba0d03f0f3c960e259b73915377a75656fdc7e6\">4ba0d03</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/41d6f81f61753d5406f197e7e7b3677066f91806\">41d6f81</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/a3e7b692e7a4d1d8090392c7ba56a9cfd5dd4c40\">a3e7b69</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/c9effcfb5eb0dbb2f36c2fe5437aeb155badc039\">c9effcf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/redisgo/commit/ad88f18112d8413cfab8023b5644d5186a7c8ab3\">ad88f18</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/2d03af094445883fc3d5451bc04bd38e6be75e15\">2d03af0</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/0171483d7d5d3d63305ce568fb136fd82e5a168e\">0171483</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/0146bbf4cc5e1788daadd30629c325ee8ed4d8bd\">0146bbf</a>\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/91b90c4364834a8becdd4a273881e57e900ebd09\">91b90c4</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/68d15ef66add4ef76a3cb2a843eeaf18658c623b\">68d15ef</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
