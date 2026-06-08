@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 325 times)\n2. update (used 301 times)\n3. new (used 258 times)\n4. readme.md (used 235 times)\n5. file: (used 228 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 328 times)\n2. update (used 309 times)\n3. new (used 258 times)\n4. readme.md (used 237 times)\n5. file: (used 228 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/garma-a/JavaScript/issues/1\">#1</a>: Please Documnet all comments and topics to READme instead of learn.js file\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/18\">#18</a>: Contact Page Component\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/22\">#22</a>: Additional Pages and Final Integration\n- <a href=\"https://github.com/garma-a/QC_project/issues/33\">#33</a>: Refactor the frontend code\n- <a href=\"https://github.com/garma-a/Graduation_ideas/issues/12\">#12</a>: `docker-compose up` crashed !!!",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/garma-a/JavaScript/issues/1\">#1</a>: Please Documnet all comments and topics to READme instead of learn.js file\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/18\">#18</a>: Contact Page Component\n- <a href=\"https://github.com/garma-a/itida-E-commerce/issues/22\">#22</a>: Additional Pages and Final Integration\n- <a href=\"https://github.com/garma-a/Graduation_ideas/issues/12\">#12</a>: `docker-compose up` crashed !!!\n- <a href=\"https://github.com/garma-a/QC_project/issues/33\">#33</a>: Refactor the frontend code",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/redisgo/commit/4e9d9e7e50dfdf39623a1ad5b194c7872b06d955\">4e9d9e7</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/930d11082bbd7af5e1a288797cc3c8e98fbd36b3\">930d110</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/cd778db97426498b8e49bdc9822a5cdc73dd0d47\">cd778db</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/06b0036d8210c77a3194931c4a5bea2f906a0156\">06b0036</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/f98d91f61f8ec380f60cc9be321e5e734bae9f0d\">f98d91f</a>\n- <a href=\"https://github.com/garma-a/ECPC_Attendance_System/commit/90b6efac7e297fbe26f6ecfc25ccb63293022bad\">90b6efa</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/cf6697c3f4bb98868ce3806f114f14f7a6fd0130\">cf6697c</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/4e9d9e7e50dfdf39623a1ad5b194c7872b06d955\">4e9d9e7</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/930d11082bbd7af5e1a288797cc3c8e98fbd36b3\">930d110</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/cd778db97426498b8e49bdc9822a5cdc73dd0d47\">cd778db</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/06b0036d8210c77a3194931c4a5bea2f906a0156\">06b0036</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/f98d91f61f8ec380f60cc9be321e5e734bae9f0d\">f98d91f</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
