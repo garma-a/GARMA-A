@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 328 times)\n2. update (used 309 times)\n3. new (used 258 times)\n4. readme.md (used 237 times)\n5. file: (used 228 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 330 times)\n2. update (used 310 times)\n3. new (used 258 times)\n4. readme.md (used 237 times)\n5. file: (used 228 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,14 +66,14 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/91c760454ed35c00f85910b2d7ec5c8d00dc6cc9\">91c7604</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/6b90e2045a637b7afc7b8376403154216924a031\">6b90e20</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/bde16ee8a73ea270b96b4273f2d46a58a5f19f56\">bde16ee</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/6b90e2045a637b7afc7b8376403154216924a031\">6b90e20</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -129,28 +129,28 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/7007ddc07ab30ec18d0bb9c9f7a55e3a9f93bd9e\">7007ddc</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/c1da5057c7d7d921315a5883cb4ea06fd93c09af\">c1da505</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/203f737d87654b7b9ff596a2248b8a3a06f86301\">203f737</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/ad88f18112d8413cfab8023b5644d5186a7c8ab3\">ad88f18</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/2d03af094445883fc3d5451bc04bd38e6be75e15\">2d03af0</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/0171483d7d5d3d63305ce568fb136fd82e5a168e\">0171483</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/0e7715250e8d2af53582c562ed68ede9a7b109ab\">0e77152</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/3a05bd416675572df73bf515174502636bd9896e\">3a05bd4</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/d92adfdc0d56024efe6422b012aaca556f7020be\">d92adfd</a>\n- <a href=\"https://github.com/garma-a/IDEconfig/commit/783041207517d5b0f8fa57bce7609955a8445607\">7830412</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/7007ddc07ab30ec18d0bb9c9f7a55e3a9f93bd9e\">7007ddc</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/c1da5057c7d7d921315a5883cb4ea06fd93c09af\">c1da505</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/150NeetCode/commit/facc7d9b286d97362ee27f23c4b3982837923d6c\">facc7d9</a>\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/3114123755debba63df2b5921e2c915e4569b52a\">3114123</a>\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/cb087b6b05a8cb9cd31982aa4a2764f27f16cd02\">cb087b6</a>\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/fe3fe56d3bef399ad7b80938bc3bdce66e6ff112\">fe3fe56</a>\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/44cba4d8603b034b23600de495fc7b638fe94066\">44cba4d</a>\n- <a href=\"https://github.com/garma-a/neetcode-submissions/commit/6eb795ecaae9e54102eb0717f96de51f60db5afd\">6eb795e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/ad735dd03bf99558a18a66ed387e956474eebfc6\">ad735dd</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/fa514d7289d9d74454bdcedf1197b7915a70575d\">fa514d7</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/f444e98fd7c848c4aa8230b5b0405aaa6209c88a\">f444e98</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/4b20aade616c16e47b9c4efae82bdc4ec9880e0b\">4b20aad</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/77f98464d5965287ae5048c9985af2b4ef08a37c\">77f9846</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/d4a0e6bff21210f198ab58144df02f7d5374c36e\">d4a0e6b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/cf6697c3f4bb98868ce3806f114f14f7a6fd0130\">cf6697c</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/4e9d9e7e50dfdf39623a1ad5b194c7872b06d955\">4e9d9e7</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/930d11082bbd7af5e1a288797cc3c8e98fbd36b3\">930d110</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/cd778db97426498b8e49bdc9822a5cdc73dd0d47\">cd778db</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/06b0036d8210c77a3194931c4a5bea2f906a0156\">06b0036</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/f98d91f61f8ec380f60cc9be321e5e734bae9f0d\">f98d91f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/776862badcae05b8a0ef609089677a744490a5f6\">776862b</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/65306f31ad723423938e584c650cdd49ccac5d0a\">65306f3</a>\n- <a href=\"https://github.com/garma-a/QC_project/commit/cf6697c3f4bb98868ce3806f114f14f7a6fd0130\">cf6697c</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/4e9d9e7e50dfdf39623a1ad5b194c7872b06d955\">4e9d9e7</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/930d11082bbd7af5e1a288797cc3c8e98fbd36b3\">930d110</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/cd778db97426498b8e49bdc9822a5cdc73dd0d47\">cd778db</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/redisgo/commit/318340b9ba0ba867e103e7058c1b23c097e00e99\">318340b</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/e7f19d75aa2d1f90b8a2672a1f6b347a8c5c196a\">e7f19d7</a>\n- <a href=\"https://github.com/garma-a/Weather-app/commit/81ef5c47b4fabc74871a8e240d3d1522b84d07a0\">81ef5c4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/garma-a/QC_project/commit/6f78de65f705a34d6836914c732ddf24818ba5a1\">6f78de6</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/318340b9ba0ba867e103e7058c1b23c097e00e99\">318340b</a>\n- <a href=\"https://github.com/garma-a/redisgo/commit/e7f19d75aa2d1f90b8a2672a1f6b347a8c5c196a\">e7f19d7</a>\n- <a href=\"https://github.com/garma-a/Weather-app/commit/81ef5c47b4fabc74871a8e240d3d1522b84d07a0\">81ef5c4</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {

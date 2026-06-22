@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/garma-a/150NeetCode/commit/facc7d9b286d97362ee27f23c4b3982837923d6c">facc7d9</a>
-- <a href="https://github.com/garma-a/neetcode-submissions/commit/3114123755debba63df2b5921e2c915e4569b52a">3114123</a>
-- <a href="https://github.com/garma-a/neetcode-submissions/commit/cb087b6b05a8cb9cd31982aa4a2764f27f16cd02">cb087b6</a>
-- <a href="https://github.com/garma-a/neetcode-submissions/commit/fe3fe56d3bef399ad7b80938bc3bdce66e6ff112">fe3fe56</a>
-- <a href="https://github.com/garma-a/neetcode-submissions/commit/44cba4d8603b034b23600de495fc7b638fe94066">44cba4d</a>
-- <a href="https://github.com/garma-a/neetcode-submissions/commit/6eb795ecaae9e54102eb0717f96de51f60db5afd">6eb795e</a>
+- <a href="https://github.com/garma-a/QC_project/commit/ad735dd03bf99558a18a66ed387e956474eebfc6">ad735dd</a>
+- <a href="https://github.com/garma-a/QC_project/commit/fa514d7289d9d74454bdcedf1197b7915a70575d">fa514d7</a>
+- <a href="https://github.com/garma-a/QC_project/commit/f444e98fd7c848c4aa8230b5b0405aaa6209c88a">f444e98</a>
+- <a href="https://github.com/garma-a/QC_project/commit/4b20aade616c16e47b9c4efae82bdc4ec9880e0b">4b20aad</a>
+- <a href="https://github.com/garma-a/QC_project/commit/77f98464d5965287ae5048c9985af2b4ef08a37c">77f9846</a>
+- <a href="https://github.com/garma-a/QC_project/commit/d4a0e6bff21210f198ab58144df02f7d5374c36e">d4a0e6b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
