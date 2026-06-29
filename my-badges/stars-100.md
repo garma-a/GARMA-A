@@ -4,6 +4,7 @@
 
 Repos:
 
+* <a href="https://github.com/garma-a/Weather-app">garma-a/Weather-app: ★3</a>
 * <a href="https://github.com/garma-a/Solar-System">garma-a/Solar-System: ★3</a>
 * <a href="https://github.com/garma-a/Snake-Game">garma-a/Snake-Game: ★3</a>
 * <a href="https://github.com/garma-a/AgeCalculator">garma-a/AgeCalculator: ★3</a>
@@ -12,7 +13,6 @@ Repos:
 * <a href="https://github.com/garma-a/I-Love-Linux">garma-a/I-Love-Linux: ★3</a>
 * <a href="https://github.com/garma-a/CollegeDSA_cpp">garma-a/CollegeDSA_cpp: ★3</a>
 * <a href="https://github.com/garma-a/Dart">garma-a/Dart: ★3</a>
-* <a href="https://github.com/garma-a/TazpetV2">garma-a/TazpetV2: ★3</a>
 * <a href="https://github.com/garma-a/GARMA-A">garma-a/GARMA-A: ★2</a>
 * <a href="https://github.com/garma-a/DB-GUI">garma-a/DB-GUI: ★2</a>
 * <a href="https://github.com/garma-a/QuizData">garma-a/QuizData: ★2</a>
@@ -50,7 +50,6 @@ Repos:
 * <a href="https://github.com/garma-a/Graduation_ideas">garma-a/Graduation_ideas: ★1</a>
 * <a href="https://github.com/garma-a/SQL">garma-a/SQL: ★1</a>
 * <a href="https://github.com/garma-a/MEAN_itida">garma-a/MEAN_itida: ★1</a>
-* <a href="https://github.com/garma-a/itida-E-commerce">garma-a/itida-E-commerce: ★1</a>
 * <a href="https://github.com/garma-a/svelte">garma-a/svelte: ★1</a>
 * <a href="https://github.com/garma-a/QC_project">garma-a/QC_project: ★1</a>
 * <a href="https://github.com/garma-a/ECPC_Attendance_System">garma-a/ECPC_Attendance_System: ★1</a>

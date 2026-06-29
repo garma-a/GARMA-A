@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 65 my own repositories." title="I&apos;ve starred 65 my own repositories." width="128">
-<strong>I&apos;ve starred 65 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 63 my own repositories." title="I&apos;ve starred 63 my own repositories." width="128">
+<strong>I&apos;ve starred 63 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/garma-a/Pre_AHC-Status_APP">garma-a/Pre_AHC-Status_APP</a>
@@ -47,7 +47,6 @@
 - <a href="https://github.com/garma-a/Projects_Go">garma-a/Projects_Go</a>
 - <a href="https://github.com/garma-a/Mastering-TypeScript-Fourth-Edition">garma-a/Mastering-TypeScript-Fourth-Edition</a>
 - <a href="https://github.com/garma-a/PS-Go">garma-a/PS-Go</a>
-- <a href="https://github.com/garma-a/TazpetV2">garma-a/TazpetV2</a>
 - <a href="https://github.com/garma-a/github-stats">garma-a/github-stats</a>
 - <a href="https://github.com/garma-a/IDEconfig">garma-a/IDEconfig</a>
 - <a href="https://github.com/garma-a/LetsGo">garma-a/LetsGo</a>
@@ -62,7 +61,6 @@
 - <a href="https://github.com/garma-a/Graduation_ideas">garma-a/Graduation_ideas</a>
 - <a href="https://github.com/garma-a/SQL">garma-a/SQL</a>
 - <a href="https://github.com/garma-a/MEAN_itida">garma-a/MEAN_itida</a>
-- <a href="https://github.com/garma-a/itida-E-commerce">garma-a/itida-E-commerce</a>
 - <a href="https://github.com/garma-a/svelte">garma-a/svelte</a>
 - <a href="https://github.com/garma-a/QC_project">garma-a/QC_project</a>
 - <a href="https://github.com/garma-a/ECPC_Attendance_System">garma-a/ECPC_Attendance_System</a>

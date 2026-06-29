@@ -5,8 +5,6 @@
 I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/garma-a/JavaScript/issues/1">#1</a>: Please Documnet all comments and topics to READme instead of learn.js file
-- <a href="https://github.com/garma-a/itida-E-commerce/issues/18">#18</a>: Contact Page Component
-- <a href="https://github.com/garma-a/itida-E-commerce/issues/22">#22</a>: Additional Pages and Final Integration
 - <a href="https://github.com/garma-a/Graduation_ideas/issues/12">#12</a>: `docker-compose up` crashed !!!
 - <a href="https://github.com/garma-a/QC_project/issues/33">#33</a>: Refactor the frontend code
 
